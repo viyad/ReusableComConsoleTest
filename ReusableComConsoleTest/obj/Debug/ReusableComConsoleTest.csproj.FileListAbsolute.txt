@@ -1,0 +1,53 @@
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.exe.config
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\CsvHelper.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\CsvHelper.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csprojAssemblyReference.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csproj.CoreCompileInputs.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csproj.CopyComplete
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\LINQtoCSV.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csprojAssemblyReference.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csproj.CoreCompileInputs.cache
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.exe.config
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.exe
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.pdb
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\CsvHelper.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\LINQtoCSV.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\CsvHelper.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csproj.CopyComplete
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.exe
+C:\Users\Aticht\Documents\TAFE\Assessments\Week 8\Programming 1\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.pdb
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.exe.config
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.exe
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\ReusableComConsoleTest.pdb
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\CsvHelper.dll
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\LINQtoCSV.dll
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\CsvHelper.xml
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csprojAssemblyReference.cache
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csproj.CoreCompileInputs.cache
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.csproj.CopyComplete
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.exe
+E:\TAFE\Event 1 of 3 - Project Assessment\Viyada Tarapornsin - 336726646\ReusableComConsoleTest\ReusableComConsoleTest\obj\Debug\ReusableComConsoleTest.pdb
